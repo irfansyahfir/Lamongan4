@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 ![](http://f.cl.ly/items/391y4708420P0H001k1G/meteoric.png)
 
 # Meteor Ionic Demo
@@ -19,6 +20,9 @@ See it in action here: [meteoric.github.io](http://meteoric.github.io)
 =======
 # Lamongan2
 >>>>>>> 5479dd656a6c784e4d65e30bc223b52856c9b11a
+=======
+# Lamongan4
+>>>>>>> 7f15b553b4155da7b8b6f0b6734c985799ce79dc
 =======
 # Lamongan4
 >>>>>>> 7f15b553b4155da7b8b6f0b6734c985799ce79dc
